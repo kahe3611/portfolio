@@ -1,6 +1,6 @@
 ################################################################################
 # TOPIC:  Error detection in trend data
-# AUTHOR: Michael Phillips, Ph.D.
+# AUTHOR: Katherine Hernandez, Ph.D.
 # DATE:   02/06/2024
 ################################################################################
 
@@ -12,7 +12,7 @@ library(stringr)
 library(EnvStats)
 
 # Loading Data
-setwd("O:/Michael on O/Stats Programs/Error Detection in Trend Data")
+setwd("O:/Katherine on O/Stats Programs/Error Detection in Trend Data")
 data <- read.xlsx('ALL_Export_ForDashboard.xlsx')
 
 # Data Cleaning
